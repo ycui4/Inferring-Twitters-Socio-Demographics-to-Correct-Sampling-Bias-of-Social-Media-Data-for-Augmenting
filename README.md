@@ -3,7 +3,7 @@
 This Git repository contains data and code for paper Inferring Twitter's Soico-Demographics to Correct Sampling Bias of Social Meida Data for Augmenting Travel Behavior Analysis.
 
 This paper utilized 3 types of dataset, and this repository contains two of them.
-1. Twitter data
+1. Twitter data (https://drive.google.com/drive/folders/0Bw4IYzpTTSh-b2VUeVhQSjB6QnM)
 2. Facebook data
 
 For the California Household Travel Survey (CHTS) data, it is confidential. Please request NREL for permission.
